@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random", "Random\Random.csproj", "{F97366F9-37D2-4162-9C31-E84DF0B08543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryDatabase", "QueryDatabase\QueryDatabase.csproj", "{DE8256E5-CBAC-4E70-9853-5B61CB61F7A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F97366F9-37D2-4162-9C31-E84DF0B08543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97366F9-37D2-4162-9C31-E84DF0B08543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97366F9-37D2-4162-9C31-E84DF0B08543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97366F9-37D2-4162-9C31-E84DF0B08543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE8256E5-CBAC-4E70-9853-5B61CB61F7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8256E5-CBAC-4E70-9853-5B61CB61F7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8256E5-CBAC-4E70-9853-5B61CB61F7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8256E5-CBAC-4E70-9853-5B61CB61F7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
